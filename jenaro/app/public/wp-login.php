@@ -4,7 +4,7 @@
  *
  * Handles authentication, registering, resetting passwords, forgot password,
  * and other user handling.
- *
+ *gdggdg
  * @package WordPress
  */
 
@@ -24,7 +24,7 @@ if ( force_ssl_admin() && ! is_ssl() ) {
 
 /**
  * Output the login page header.
- *
+ *yeyyeyy  eyyey
  * @since 2.1.0
  *
  * @global string      $error         Login error message set by deprecated pluggable wp_login() function
